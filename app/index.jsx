@@ -23,7 +23,7 @@ export default function ExcersisesScreen() {
 const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: 'ghostwhite',
+      //backgroundColor: 'ghostwhite',
       
       justifyContent: 'center',
       padding: 10,
